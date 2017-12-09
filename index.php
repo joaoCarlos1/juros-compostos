@@ -14,7 +14,7 @@
     <section class="container main-section">
         <div class="main-conteudo">
             <h1>Simulador De Juro Composto</h1>
-            <p>Ferramenta simular juro composto com base em taxas genéricas</p>
+            <p>Ferramenta simular juros compostos com base em taxas genéricas</p>
             <form>
                 <div class="form-group">
                     <label for="">Capital inical:</label>
